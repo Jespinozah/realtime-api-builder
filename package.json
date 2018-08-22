@@ -1,0 +1,17 @@
+{
+  "name": "realtime-api-builder",
+  "description": "Realtime Api Builder",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "main": "server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "cors": "2.8.1",
+    "express": "latest",
+    "lokijs": "1.5.3",
+    "nodemon": "1.17.3"
+  }
+}
